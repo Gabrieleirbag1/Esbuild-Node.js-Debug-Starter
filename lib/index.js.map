@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../src/index.ts"],
-  "sourcesContent": ["let count = 0;\nsetInterval(() => {\n    debugger;\n    console.log(count++);\n}, 1000);"],
-  "mappings": ";AAAA,IAAI,QAAQ;AACZ,YAAY,MAAM;AACd;AACA,UAAQ,IAAI,OAAO;AACvB,GAAG,GAAI;",
-  "names": []
-}
